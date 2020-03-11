@@ -1,19 +1,19 @@
 {
  "items": [
    {
-     "title": "Aeakanshi",
+     "name": "Aeakanshi",
      "url": "https://www.youtube.com/channel/UCXPBsjgKKG2HqsKBhWA4uQw"
    },
    {
-     "title": "AMP.dev",
+     "name": "AMP.dev",
      "url": "https://amp.dev/"
    },
    {
-     "title": "AMP Validator",
+     "name": "AMP Validator",
      "url": "https://validator.amp.dev/"
    },
    {
-     "title": "AMP Playground",
+     "name": "AMP Playground",
      "url": "https://playground.amp.dev/"
    }
  ]
